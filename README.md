@@ -87,9 +87,13 @@ Licenses & Certifications
 
 🔐 Cloud Practitioner Essentials (AWS Elemental)
 Drona Aviation: Design and Fabrication of nano-quadrotor Pluto IIT Bombay
+
 Microsoft: AI Classroom Series on 02-02-2021
+
 AlgoExpert: Certified
+
 Vidyalankar Polytechnic: Capstone Project from Industry Perspective
+
 NSE India:
 Banking Fundamentals
 Behavioral Finance
@@ -100,9 +104,13 @@ Financial Statements
 Introduction to Technical Analysis
 Investment Analysis and Portfolio Management
 Project management fundamentals
+
 DeveLearn: Python & Data Structures
+
 NSE India: Speaking Effectively
+
 AlgoExpert: SystemsExpert
+
 NSE India: Wealth Management
 
 Skills
