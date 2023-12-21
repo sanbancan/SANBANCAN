@@ -1,6 +1,7 @@
 Hi there! 👋 I'm Bandekar!
 
 About Me
+
 Looking forward to a challenging assignment in an organization and responsibility which will utilize my skill sets and also an opportunity to upgrade my knowledge, experience and professional development in conjunction with the organization’s goal.
 
 Hobbies: Ice skating, swimming, yoga, badminton, football, violin, fiction.
