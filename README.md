@@ -84,6 +84,7 @@ FIITJEE (2015 - 2016)
 🎓 Integrated IIT-JEE prep
 
 Licenses & Certifications
+
 🔐 Cloud Practitioner Essentials (AWS Elemental)
 Drona Aviation: Design and Fabrication of nano-quadrotor Pluto IIT Bombay
 Microsoft: AI Classroom Series on 02-02-2021
