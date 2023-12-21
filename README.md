@@ -66,7 +66,7 @@ San Jose State University (2023 - 2024)
 🎓 Bachelor of Science - BS Data Science
 
 Stanford Summer Session (2022)
-📚 Academic quarter for credits (Withdrawn)
+📚 Academic quarter for credits
 Technology Entrepreneurship, Design and Analysis of Algorithms, Silicon Valley Innovation Academy
 
 De Anza College (2021 - 2023)
