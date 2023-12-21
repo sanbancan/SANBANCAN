@@ -1,8 +1,8 @@
-Hi there! 👋 I'm Bandekar!
+🚀 Welcome to my GitHub space!
 
 About Me
 
-🚀 Welcome to my GitHub space! I'm on the lookout for challenging assignments that allow me to leverage my skill sets, upgrade my knowledge, and contribute to the organization's goals.
+I'm on the lookout for challenging assignments that allow me to leverage my skill sets, upgrade my knowledge, and contribute to the organization's goals.
 
 Experience
 
