@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-Bandekar Bandekar
+Bandekar 
+
 Education
+
 De Anza College (California Community Colleges)
 Associate's degree in Mathematics
 Department of Computer Information Systems
@@ -13,7 +15,9 @@ Department of Computer Information Systems
 FIITJEE (Gulf region)
 Integrated IIT-JEE prep
 2015 - 2016
+
 Skills
+
 Technology Entrepreneurship
 Design and Analysis of Algorithms
 Silicon Valley Innovation
@@ -31,7 +35,9 @@ Web Development
 DevOps
 Investment Analysis
 Portfolio Management
+
 Experience
+
 Participant
 SJSU Economics Experimental Lab
 Oct 2023 - Present (3 months)
@@ -55,22 +61,25 @@ Feb 2018 - Present (5 years 11 months)
 Founder
 CoviO2
 Mar 2020 - Sep 2021 (1 year 7 months)
+
 Certifications
+
 Design and Fabrication of nano-quadrotor
-Pluto IIT Bombay on 10/12/17
-Drona Aviation
-Data Science
-ExcelR Solutions
+Pluto IIT Bombay on 10/12/17 Drona Aviation
+Data Science ExcelR Solutions
 Investment Analysis and Portfolio Management
 NSE India summer training courses
+
+
 Webinars
 Revit MEP
 Renewable energy
 Wind analysis for structures
 Basic Life Support
-Health
+
+
 Training Courses
-Applied Mathematics
+
 BLS (Basic Life Support) training
 
 <!--
