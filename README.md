@@ -125,57 +125,83 @@ curated list of project undertaken:
 
 Applied Electronics
 Built a circuit of dual regulated power supply on a general-purpose PCB to obtain +/-15V, 500 mA using IC78XX and IC79XX series.
+
 Applied Mathematics
 Sinusoidal wave programming.
+
 Basic Electronics
 Power supply circuit.
+
 Basic Mathematics
 Formulas and shapes.
+
 Basic Science (Physics & Chemistry)
 Optical Fiber cable and working.
+
 Basic Power Electronic
 Built phase-controlled rectifiers using IGBT and Shunt motors.
+
 Business Communications
 Communications and principles PPT.
+
 C Programming Language
 Sinusoidal wave programming.
+
 CS131 Processing Big Data Miniproject
 Comprehensive analysis of fortune 1000 companies.
+
 Capstone Project
 Swarm robotics.
-[Group 10 - CS131 Capstone Project.pdf](link to your project file).
+
+group 10 - CS131 Capstone Project.pdf
+
 Computer Networking and Data Communication
 Mesh topology on Cisco software.
+
 Consumer Electronics
 Built timer delay using IC89c51.
+
 Control Systems and PLC
 Automatic ladder diagram for door control system.
+
 Data Science
 R programming ML.
+
 Anaconda navigator Jupyter notebook ML – Credit card fraud detection, Boston house prediction of prices, movie recommendation system, prediction of stock prices.
-[Ref excelr Letter.pdf](link to your project file).
+
 Digital Communication Systems
 Developed a circuit to generate FSK.
+
 Digital Techniques
 Built a circuit for seven-segment display.
+
 Electric Circuits and Network
 Resonance in series and parallel circuits.
+
 Electronic Engineering Material
 Nanomaterial demonstration.
+
 Electronic Measurements and Instruments
 Analog and digital meters.
+
 Elements Of Electrical Engineering
 Different types of fuses identification and classification.
+
 Embedded Systems
 Obstacle avoider bot.
+
 Emerging Trends
 Report on cutting-edge tech.
+
 Engineering Graphics
 Isometric view of Industrial item.
+
 Entrepreneurship Development
 Report on the case study of social entrepreneur.
+
 Environmental Studies
 Sewage discharge in Rio Grande.
+
 Full Bot Projects
 Line follower Bot.
 Obstacle follower Bot.
@@ -183,27 +209,37 @@ Gesture-controlled Bot.
 Animatronic Hand.
 Mobile controlled Bot.
 Maze solver robot.
+
 Fundamentals of ICT
 Microsoft Excel use cases.
+
 Globalization survey.
+
 JAVA - Project Pokemon
-[JAVA - Project Pokemon](link to your project file).
+
 Linear Integrated Circuits
 Built frequency synthesizer using PLL IC565.
+
 Management
 Report on case studies of small scale and large scale industries.
+
 Microcontroller and Applications
 Built a circuit using 8051 microcontroller to blink LED.
+
 Microwave and Radar
 De-speckled SAR images using CNN.
+
 Mobile and Wireless Communications
 DTMF decoder.
+
 Open CV
-Ongoing.
+
 Optical Network and Satellite Communication
 Report on VSAT communication.
+
 Principles of Electronic Communications
 Built Transmitter and Receiver modules.
+
 VLSI with VHDL
 Report of CMOS fabrication process.
 
