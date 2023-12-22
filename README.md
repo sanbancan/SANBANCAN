@@ -1,10 +1,11 @@
 🚀 Welcome to my GitHub space!
 
-About Me
+
+🌐🔧💡About Me
 
 I'm on the lookout for challenging assignments that allow me to leverage my skill sets, upgrade my knowledge, and contribute to the organization's goals.
 
-Experience
+🔍🛠️Experience
 
 SJSU Economics Experimental Lab (Oct 2023 - Present)
 🎓 Participant
@@ -57,7 +58,7 @@ CoviO2 (Mar 2020 - Sep 2021)
 🌐 Founder
 Online platform for COVID-19 relief efforts.
 
-Education
+📚🎓Education
 
 Indian Institute of Technology, Madras (2023 - Present)
 🎓 Diploma Data Science
