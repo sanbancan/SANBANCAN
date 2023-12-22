@@ -83,9 +83,10 @@ Central Board of Secondary Education (2015 - 2017)
 FIITJEE (2015 - 2016)
 🎓 Integrated IIT-JEE prep
 
-Licenses & Certifications
+🔐Licenses & Certifications
 
-🔐 Cloud Practitioner Essentials (AWS Elemental)
+Cloud Practitioner Essentials (AWS Elemental)
+
 Drona Aviation: Design and Fabrication of nano-quadrotor Pluto IIT Bombay
 
 Microsoft: AI Classroom Series on 02-02-2021
@@ -113,15 +114,15 @@ AlgoExpert: SystemsExpert
 
 NSE India: Wealth Management
 
-Skills
+🔧 Skills 🔨
 
-Industry Knowledge
-🔌 Electronic Communications | Consumer Electronics | Electronic Circuit Design | Electrical and Instrumentation Engineering (EIE)
+🔌Industry Knowledge
+ Electronic Communications | Consumer Electronics | Electronic Circuit Design | Electrical and Instrumentation Engineering (EIE)
 
-Tools & Technologies
-🛠️ **PLC: Allen Bradley and Siemens | SCADA: Wonderware | Keil uVision, Xilinx, Google Colab, Proteus, MATLAB | PLC Ladder Logic, R programming, C++, Java | Project Management, Academic Publishing, Breadboard Mounting, Data Structures | Engineering Drawings, RF & Microwave Design, Printed Circuit Board (PCB) Design | Assembly Language, Very-Large-Scale Integration (VLSI), Neural Networks | Data Mining, Machine Learning
+🛠️Tools & Technologies
+PLC: Allen Bradley and Siemens | SCADA: Wonderware | Keil uVision, Xilinx, Google Colab, Proteus, MATLAB | PLC Ladder Logic, R programming, C++, Java | Project Management, Academic Publishing, Breadboard Mounting, Data Structures | Engineering Drawings, RF & Microwave Design, Printed Circuit Board (PCB) Design | Assembly Language, Very-Large-Scale Integration (VLSI), Neural Networks | Data Mining, Machine Learning
 
-curated list of project undertaken:
+🚀🛠️curated list of project undertaken:
 
 Applied Electronics
 Built a circuit of dual regulated power supply on a general-purpose PCB to obtain +/-15V, 500 mA using IC78XX and IC79XX series.
@@ -243,10 +244,11 @@ Built Transmitter and Receiver modules.
 VLSI with VHDL
 Report of CMOS fabrication process.
 
-Publications
+
+📚Publications
 
 Electric Vehicles: It’s Perspectives and Issues
 INTERNATIONAL RESEARCH JOURNAL OF ENGINEERING AND TECHNOLOGY, July 7, 2021
 
-Connect with Me
+🤝Connect with Me
 Github | Leetcode | Codechef | Codeforces | HackerRank | Linkedin
