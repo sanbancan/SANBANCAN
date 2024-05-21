@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbancan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 [![sanbancan's GitHub | Stats](https://stats.quine.sh/sanbancan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanbancan)
 [![sanbancan's GitHub | Topics](https://stats.quine.sh/sanbancan/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanbancan)
-[![sanbancan's GitHub | Stats](https://stats.quine.sh/sanbancan/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sanbancan)
-[![sanbancan's GitHub | Topics](https://stats.quine.sh/sanbancan/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sanbancan)
 [![sanbancan's GitHub | Languages](https://stats.quine.sh/sanbancan/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sanbancan)
 
 ## 🏆 GitHub Trophies
