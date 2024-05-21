@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sanbancan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanbancan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbancan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![sanbancan's GitHub | Stats](https://stats.quine.sh/sanbancan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sanbancan)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanbancan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
