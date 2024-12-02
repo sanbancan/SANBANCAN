@@ -6,6 +6,8 @@
 ![image](https://github.com/user-attachments/assets/3603de0b-018a-4e58-ab49-767c2127b27a)
 
 SWAG Awardee
+![iSucceed Mentorship Program - iSucceed Health   Wellness Badge - 2024-12-02](https://github.com/user-attachments/assets/2487e09b-4fbd-4d0b-a1cb-0dbf27e84fed)
+
 
 ![project-management-fundamentals](https://github.com/user-attachments/assets/7576f5a9-433f-428a-9bd6-2686ddf47bb8)
 
