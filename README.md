@@ -2,7 +2,7 @@
 
 
 ![Please-enter-a-title_-001](https://github.com/sanbancan/SANBANCAN/assets/90973610/8209958b-d380-4f64-97d7-afe65fc42d72)
-
+![image](https://github.com/sanbancan/SANBANCAN/assets/90973610/8e174a43-bd0e-48bf-929e-37afb10cfbb4)
 ![image](https://github.com/user-attachments/assets/3603de0b-018a-4e58-ab49-767c2127b27a)
 
 SWAG Awardee
