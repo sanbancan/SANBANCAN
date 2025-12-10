@@ -8,7 +8,8 @@
 
 SWAG Awardee
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="626ccccd-e4aa-4600-8ce1-e274a1932958" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="600" height="600" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/5b17fe55-60cc-4274-81f3-ee86837fb5fc" />
+
 
 ![iSucceed Mentorship Program - iSucceed Health   Wellness Badge - 2024-12-02](https://github.com/user-attachments/assets/2487e09b-4fbd-4d0b-a1cb-0dbf27e84fed)
 
