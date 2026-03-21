@@ -10,6 +10,8 @@ SWAG Awardee
 
 <img width="600" height="600" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/5b17fe55-60cc-4274-81f3-ee86837fb5fc" />
 
+<img width="1536" height="1536" alt="image" src="https://github.com/user-attachments/assets/2842592f-180d-41be-9e85-fd52f254438f" />
+
 
 ![iSucceed Mentorship Program - iSucceed Health   Wellness Badge - 2024-12-02](https://github.com/user-attachments/assets/2487e09b-4fbd-4d0b-a1cb-0dbf27e84fed)
 
