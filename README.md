@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/3603de0b-018a-4e58-ab49-767c2127b27a)
 
-
+https://developers.google.com/profile/badges/nvidia-developer
 SWAG Awardee
 
 <img width="600" height="600" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/5b17fe55-60cc-4274-81f3-ee86837fb5fc" />
